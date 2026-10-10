@@ -1,0 +1,3 @@
+site_id_dummy,closure_type_dummy,closure_id_dummy,area_general_dummy,splitter_ratio_example,port_label_dummy,status_example,notes_dummy
+SITE-DEMO-01,ODC,ODC-DEMO-01,AREA-DEMO-A,1:8,OUT-01,Example only,No production data
+SITE-DEMO-01,ODP,ODP-DEMO-01,AREA-DEMO-A,1:8,PORT-01,Example only,No customer identifiers
